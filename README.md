@@ -445,6 +445,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2026|WACV|Space Domain|[Deepfake Detection that Generalizes Across Benchmarks](https://arxiv.org/abs/2508.06248)|[Code](https://github.com/yermandy/GenD)|
 |2025|arXiv|Multi-Modal|[Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection](https://arxiv.org/abs/2503.19683)|[Code](https://github.com/yermandy/deepfake-detection)|
 |2025|arXiv|Space Domain|[From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes](https://arxiv.org/abs/2504.04827)|-|
 |2025|arXiv|Space Domain|[Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector](https://arxiv.org/abs/2503.20188)|-|
