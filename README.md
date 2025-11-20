@@ -84,22 +84,27 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Swapping
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2025|arXiv|Difussion|[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)|[Code](https://fudan-generative-vision.github.io/hallo3/)|
+|2025|arXiv|Difussion|[DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning](https://arxiv.org/abs/2504.14509)|[Code](https://superhero-7.github.io/DreamID/)|
 |2025|arXiv|Difussion|[High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning](https://arxiv.org/abs/2503.22179)|-|
-|2025|arXiv|Difussion|[DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors](https://arxiv.org/abs/2501.08553)|[Code](https://dynamic-face.github.io/)|
+|2025|CVPR|Difussion|[Zero-Shot Head Swapping in Real-World Scenarios](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Zero-Shot_Head_Swapping_in_Real-World_Scenarios_CVPR_2025_paper.html)|-|
+|2025|KBS|GANs|[FDC-Swap: An efficient face swapping framework based on feature disentangling consistency](https://www.sciencedirect.com/science/article/pii/S0950705125005040)|[Code](https://github.com/tzjoyzx/FDC_Swap)|
+|2025|ICCV|Difussion|[DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors](https://arxiv.org/abs/2501.08553)|[Code](https://dynamic-face.github.io/)|
+|2025|CVM|GANs|[LDSwap: A Semantic-Related Latent Code Disentangling Method in StyleSpace Towards High-Resolution Face Swapping]([https://arxiv.org/abs/2501.08553](https://ieeexplore.ieee.org/abstract/document/11005713))|-|
 |2025|PR|Difussion|[DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://www.sciencedirect.com/science/article/pii/S0031320325001116)|[Code](https://hxngiee.github.io/DiffFace/)|
+|2025|CVPR|Difussion|[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_Hallo3_Highly_Dynamic_and_Realistic_Portrait_Image_Animation_with_Video_CVPR_2025_paper.html)|[Code](https://fudan-generative-vision.github.io/hallo3/)|
 |2025|ESWA|Difussion|[Ueco: Unified editing chain for efficient appearance transfer with multimodality-guided diffusion](http://sciencedirect.com/science/article/pii/S0957417425001320)|-|
 |2025|WACV|Difussion|[Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://arxiv.org/abs/2409.07269)|[Code](https://github.com/Sanoojan/REFace)|
+|2025|WACV|GANs|[PixSwap: High-Resolution Face Swapping for Effective Reflection of Identity via Pixel-Level Supervision with Synthetic Paired Dataset](https://ieeexplore.ieee.org/abstract/document/10943978/?casa_token=vT29-EVcvGYAAAAA:UVwUWtU-7ppAOxsAldksiVW6ZCq-1vE-XKCoAVeBKgLQFbL01KWQ_M_WHDXGynIRA8eUrQRvmw)|-|
 |2024|arXiv|Diffusion|[HiFiVFS: High Fidelity Video Face Swapping](https://arxiv.org/abs/2411.18293)|-|
-|2024|arXiv|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://arxiv.org/abs/2410.22771)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
 |2024|arXiv|GANs|[Active Fake: DeepFake Camouflage](https://arxiv.org/abs/2409.03200)|-|
 |2024|arXiv|Other|[Rank-based No-reference Quality Assessment for Face Swapping](https://arxiv.org/abs/2406.01884)|-|
 |2024|arXiv|3DGS|[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting](https://arxiv.org/abs/2402.06390)|[Code](https://github.com/quereste/implicit-deepfake)|
 |2024|arXiv|GANs|[LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping](https://arxiv.org/abs/2402.18351)|[Code](https://github.com/usingcolor/LatentSwap)|
-|2024|arXiv|VAEs|[SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder](https://arxiv.org/abs/2402.07370)|-|
 |2024|arXiv|Difussion|[Face Swap via Diffusion Model](https://arxiv.org/abs/2403.01108)|[Code](https://github.com/somuchtome/faceswap)|
 |2024|arXiv|GANs|[E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion](https://arxiv.org/abs/2310.15081)|[Code](https://e4s2024.github.io/)|
-|2024|NIPS|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://proceedings.neurips.cc/paper_files/paper/2024/hash/939f20cc178460749e4ab5fa28fd3b10-Abstract-Conference.html)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
+|2024|NeurIPS|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://arxiv.org/abs/2410.22771)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
+|2024|NeurIPS|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://proceedings.neurips.cc/paper_files/paper/2024/hash/939f20cc178460749e4ab5fa28fd3b10-Abstract-Conference.html)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
+|2024|ECCV|VAEs|[SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder](https://link.springer.com/content/pdf/10.1007/978-3-031-73001-6_22.pdf)|-|
 |2024|ACM MM|VAEs|[CodeSwap: Symmetrically Face Swapping Based on Prior Codebook](https://openreview.net/forum?id=TYbuVVM3iR)|-|
 |2024|ACM TOG|GANs|[Identity-Preserving Face Swapping via Dual Surrogate Generative Models](https://dl.acm.org/doi/abs/10.1145/3676165?casa_token=ftkZx-RX6tsAAAAA:TKCR4gcHy9tWrY3UqJ6I6CV1dTQmCBXbjqk17I1Pz6ibgU45yF3F0i586RjdFkjhwTqxUoIvV9aJ)|[Code](https://github.com/ICTMCG/CSCS)|
 |2024|ESWA|GANs|[Face swapping with adaptive exploration-fusion mechanism and dual en-decoding tactic](https://www.sciencedirect.com/science/article/pii/S0957417424016890)|-|
