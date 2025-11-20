@@ -86,12 +86,12 @@ This work presents a detailed survey on generation and detection tasks about fac
 |:-:|:-:|:-:|-|-|
 |2025|arXiv|Difussion|[DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning](https://arxiv.org/abs/2504.14509)|[Code](https://superhero-7.github.io/DreamID/)|
 |2025|arXiv|Difussion|[High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning](https://arxiv.org/abs/2503.22179)|-|
-|2025|CVPR|Difussion|[Zero-Shot Head Swapping in Real-World Scenarios](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Zero-Shot_Head_Swapping_in_Real-World_Scenarios_CVPR_2025_paper.html)|-|
 |2025|KBS|GANs|[FDC-Swap: An efficient face swapping framework based on feature disentangling consistency](https://www.sciencedirect.com/science/article/pii/S0950705125005040)|[Code](https://github.com/tzjoyzx/FDC_Swap)|
 |2025|ICCV|Difussion|[DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors](https://arxiv.org/abs/2501.08553)|[Code](https://dynamic-face.github.io/)|
 |2025|CVM|GANs|[LDSwap: A Semantic-Related Latent Code Disentangling Method in StyleSpace Towards High-Resolution Face Swapping]([https://arxiv.org/abs/2501.08553](https://ieeexplore.ieee.org/abstract/document/11005713))|-|
 |2025|PR|Difussion|[DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://www.sciencedirect.com/science/article/pii/S0031320325001116)|[Code](https://hxngiee.github.io/DiffFace/)|
 |2025|CVPR|Difussion|[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_Hallo3_Highly_Dynamic_and_Realistic_Portrait_Image_Animation_with_Video_CVPR_2025_paper.html)|[Code](https://fudan-generative-vision.github.io/hallo3/)|
+|2025|CVPR|Difussion|[Zero-Shot Head Swapping in Real-World Scenarios](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Zero-Shot_Head_Swapping_in_Real-World_Scenarios_CVPR_2025_paper.html)|-|
 |2025|ESWA|Difussion|[Ueco: Unified editing chain for efficient appearance transfer with multimodality-guided diffusion](http://sciencedirect.com/science/article/pii/S0957417425001320)|-|
 |2025|WACV|Difussion|[Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://arxiv.org/abs/2409.07269)|[Code](https://github.com/Sanoojan/REFace)|
 |2025|WACV|GANs|[PixSwap: High-Resolution Face Swapping for Effective Reflection of Identity via Pixel-Level Supervision with Synthetic Paired Dataset](https://ieeexplore.ieee.org/abstract/document/10943978/?casa_token=vT29-EVcvGYAAAAA:UVwUWtU-7ppAOxsAldksiVW6ZCq-1vE-XKCoAVeBKgLQFbL01KWQ_M_WHDXGynIRA8eUrQRvmw)|-|
@@ -159,25 +159,29 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2025|arXiv|[MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance](https://arxiv.org/abs/2504.21497)|[Code](https://github.com/weimengting/MagicPortrait)|
 |2025|arXiv|[SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers](https://arxiv.org/pdf/2502.10841)|[Code](https://skyworkai.github.io/skyreels-a1.github.io/)|
-|2025|arXiv|[Learning Semantic Facial Descriptors for Accurate Face Animation](https://arxiv.org/abs/2501.17718)|-|
 |2025|arXiv|[GHOST 2.0: Generative High-fidelity One Shot Transfer of Heads](https://arxiv.org/abs/2502.18417)|[Code](https://github.com/ai-forever/ghost-2.0)|
 |2025|arXiv|[Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation](https://arxiv.org/abs/2504.02542)|[Code](https://harlanhong.github.io/publications/actalker/index.html)|
+|2025|ICLR|[X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention](https://arxiv.org/abs/2507.23143)|[Code](https://github.com/bytedance/x-nemo-inference)|
+|2025|IJCV|[UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors ](https://link.springer.com/article/10.1007/s11263-025-02395-6)|-|
+|2025|WACV|[Anchored Diffusion for Video Face Reenactment](https://ieeexplore.ieee.org/abstract/document/10944032?casa_token=o117rgscc70AAAAA:xEGyQh41j5t7j-C4VwPm4cdM0lB_14hoMoK3JJ5UD7NWlaBdojsx540v1RNgBUarSY-cwPdbUA)|-|
+|2025|WACV|[Learning Online Scale Transformation for Talking Head Video Generation](https://ieeexplore.ieee.org/abstract/document/10944032/?casa_token=WmRlmsfAbS4AAAAA:6RhhCVlm-8pZ3IUYgiMFDdx5HfT0rfq0hPFJx7nl04OB_xtoB9ES1ghiJSw_81V2fo9CIxMN5A)|-|
+|2025|ICASSP|[One-Shot Face Avatar Generation in a Single Forward Pass with Identity Preservation](https://ieeexplore.ieee.org/abstract/document/10890707?casa_token=qjY0WosYivMAAAAA:HTadDJ14J96GhpXn05fTB6H_Nl63K48gfvQKF8pNiiAW1UFwrfO4PyKB0yuif2CAELRWf8zlZQ)|-|
+|2025|ICASSP|[Learning Semantic Facial Descriptors for Accurate Face Animation](https://ieeexplore.ieee.org/abstract/document/10889019/?casa_token=uB4Ad-yH8nEAAAAA:Rc8ADhETdgfOTtBxOzbHeZlkMNz4tqdTFRJMBUhcVa7cjQCf2CmGyfuztgp6oogX6KpB6s8p8A)|-|
+|2025|ICCV|[Superior and Pragmatic Talking Face Generation with Teacher-Student Framework](https://openaccess.thecvf.com/content/ICCV2025W/I-HFM/html/Liang_Superior_and_pragmatic_talking_face_generation_with_teacher-student_framework_ICCVW_2025_paper.html)|[Code](https://superfacelink.github.io/)|
+|2025|FG|[DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment](https://arxiv.org/abs/2403.17217)|[Code](https://stelabou.github.io/diffusionact/)|
 |2025|ICASSP|[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](https://ieeexplore.ieee.org/abstract/document/10887604?casa_token=gfAd9wy2LtEAAAAA:dkJI9pQheYrAf3qicul4EPP4ZTt-gAr3wLqmROw-QrL24YC46WP9uaTA8Rj9jBmi53gJ0ujUi-c)|-|
 |2025|IJCV|[UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors](https://link.springer.com/article/10.1007/s11263-025-02395-6)|-|
 |2025|PR|[Maskrenderer: 3D-infused multi-mask realistic face reenactment](https://www.sciencedirect.com/science/article/pii/S0031320324006423#fig2)|-|
 |2024|arXiv|[MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning](https://arxiv.org/abs/2409.15179)|[Code](https://mimaface2024.github.io/mimaface.github.io)|
-|2024|arXiv|[Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation](https://arxiv.org/abs/2406.01900)|[Code](https://follow-your-emoji.github.io/)|
 |2024|arXiv|[LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)|[Code](https://liveportrait.github.io/)|
-|2024|arXiv|[Anchored Diffusion for Video Face Reenactment](https://arxiv.org/pdf/2407.15153)|-|
-|2024|arXiv|[Learning Online Scale Transformation for Talking Head Video Generation](https://arxiv.org/abs/2407.09965)|-|
 |2024|arXiv|[VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence](https://arxiv.org/abs/2405.16204)|-|
 |2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[MegActor: Harness the Power of Raw Video for Vivid Portrait Animation](https://arxiv.org/abs/2405.20851)|[Code](https://github.com/megvii-research/MegFaceAnimate)|
-|2024|arXiv|[Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
-|2024|arXiv|[Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
-|2024|arXiv|[Superior and Pragmatic Talking Face Generation with Teacher-Student Framework](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Superior+and+Pragmatic+Talking+Face+Generation+with+Teacher-Student+Framework&btnG=)|[Code](https://superfacelink.github.io/)|
-|2024|arXiv|[DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment](https://arxiv.org/abs/2403.17217)|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|WACV|[Anchored Diffusion for Video Face Reenactment](https://arxiv.org/pdf/2407.15153)|-|
+|2024|ECCV|[Learning to generate conditional tri-plane for 3d-aware expression controllable portrait animation](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_27)|[Code](https://export3d.github.io/)|
+|2024|SIGRRAPH|[Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation](https://dl.acm.org/doi/abs/10.1145/3680528.3687587)|[Code](https://follow-your-emoji.github.io/)|
 |2024|SIGGRAPH|[X-portrait: Expressive portrait animation with hierarchical motion attention](https://dl.acm.org/doi/abs/10.1145/3641519.3657459)|-|
 |2024|BMVC|[G3FA: Geometry-guided GAN for Face Animation](http://arxiv.org/abs/2408.13049v1) |[Code](https://github.com/dfki-av/G3FA)|
 |2024|ECCV|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
